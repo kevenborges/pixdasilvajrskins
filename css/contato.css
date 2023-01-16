@@ -1,0 +1,36 @@
+h1{
+    font-size: 70px;
+    font-style: italic;
+    color: white;
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+}
+
+#container p{
+    font-size: 30px;
+    font-style: italic;
+    color: white;
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+}
+
+.imgdodev{
+    width: 200px;
+    height: 200px;
+    border-radius: 800px;
+}
+
+.imgdodev:hover{
+    transform:scale(1.1);
+    transition: 0.25s;
+}
+
+.tablecenter{
+    padding-bottom: 4px;
+}
+
+.tablecenter tr td{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
